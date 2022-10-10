@@ -18,7 +18,7 @@ public class Principal {
         //Excluir produtos
         //obj_produtos.excluir(13);
 
-       DAO_Unidades obj_unidades = new DAO_Unidades();
+       //DAO_Unidades obj_unidades = new DAO_Unidades();
 
        //consultar unidades
        //obj_unidades.consultar();
